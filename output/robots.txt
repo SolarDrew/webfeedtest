@@ -1,0 +1,4 @@
+Sitemap: https://webfeedtest.com/sitemapindex.xml
+
+User-Agent: *
+Host: webfeedtest.com
