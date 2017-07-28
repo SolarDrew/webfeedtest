@@ -6,35 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://webfeedtest.com/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/2017/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/2017/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/archive.html</loc>
+  <loc>https://solardrew.github.io/webfeedtest/archive.html</loc>
+  <lastmod>2017-07-28T15:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://solardrew.github.io/webfeedtest/categories/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/categories/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/galleries/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/galleries/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/listings/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/listings/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/posts/attempt-at-actual-episode/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://webfeedtest.com/posts/attempt-at-actual-episode/</loc>
-  <lastmod>2017-07-28T15:30:00Z</lastmod>
- </url>
- <url>
-  <loc>https://webfeedtest.com/posts/demo-post-number-0/</loc>
+  <loc>https://solardrew.github.io/webfeedtest/posts/demo-post-number-0/</loc>
   <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
 </urlset>
