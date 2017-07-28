@@ -24,7 +24,7 @@ BLOG_TITLE = "Test Website"  # (translatable)
 SITE_URL = "https://solardrew.github.io/webfeedtest/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://webfeedtest.com/"
+# BASE_URL = "https://solardrew.github.io/webfeedtest/"
 BLOG_EMAIL = "drew@webfeedtest.com"
 BLOG_DESCRIPTION = "Test website for figuring out rss feeds"  # (translatable)
 
