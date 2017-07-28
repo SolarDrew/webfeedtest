@@ -7,30 +7,34 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://webfeedtest.com/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/2017/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/archive.html</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/categories/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/galleries/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/listings/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://webfeedtest.com/posts/attempt-at-actual-episode/</loc>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://webfeedtest.com/posts/demo-post-number-0/</loc>
-  <lastmod>2017-07-28T15:10:00Z</lastmod>
+  <lastmod>2017-07-28T15:30:00Z</lastmod>
  </url>
 </urlset>
