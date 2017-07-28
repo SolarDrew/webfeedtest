@@ -1,4 +1,4 @@
-Sitemap: https://webfeedtest.com/sitemapindex.xml
+Sitemap: https://solardrew.github.io/webfeedtest/sitemapindex.xml
 
 User-Agent: *
-Host: webfeedtest.com
+Host: solardrew.github.io

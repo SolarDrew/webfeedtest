@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Drew Leonard"  # (translatable)
 BLOG_TITLE = "Test Website"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://webfeedtest.com/"
+SITE_URL = "https://solardrew.github.io/webfeedtest/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://webfeedtest.com/"
