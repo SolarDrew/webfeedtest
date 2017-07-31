@@ -7,8 +7,8 @@
 .. link: 
 .. description: 
 .. type: text
-.. mp3_enclosure: https://solardrew.github.io/webfeedtest/Bugle4037.mp3
-.. mp3_enclosure_length: 43226624
+.. ogg_enclosure: https://solardrew.github.io/webfeedtest/Bugle4037.mp3
+.. ogg_enclosure_length: 43226624
 -->
 
 Here is another amazing episode!
