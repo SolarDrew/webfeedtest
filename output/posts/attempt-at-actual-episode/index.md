@@ -13,7 +13,7 @@ Here is our first amazing episode!
 Except it's actually not anything that I've made at all, it's an episode of the Bugle, from [here](https://soundcloud.com/the-bugle)
 
 <audio controls="true">
-  <source type="audio/mp3" src="../../../Bugle4037.mp3"></source>
+  <source type="audio/mp3" src="../../Bugle4037.mp3"></source>
   Your browser does not support the audio element.
 </audio>
 
