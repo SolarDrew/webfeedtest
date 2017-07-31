@@ -7,7 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. ogg_enclosure: https://solardrew.github.io/webfeedtest/Bugle4037.mp3
+.. ogg_enclosure: Bugle4037.mp3
 .. ogg_enclosure_length: 43226624
 -->
 
