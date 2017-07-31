@@ -7,7 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. mp3_enclosure: ../../Bugle4037.mp3
+.. mp3_enclosure: /Bugle4037.mp3
 .. mp3_enclosure_length: 43226624
 -->
 
