@@ -132,9 +132,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-        ("/rss_ogg.xml", "RSS OGG feed"),
-        ("/rss_mp3.xml", "RSS MP3 feed"),
+        ("/rss.xml", "Podcast feed"),
     ),
 }
 
@@ -512,6 +510,7 @@ FRONT_INDEX_HEADER = {
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / rss.xml
 # RSS_PATH = ""
+RSS_OGG_PATH = "rss.xml"
 
 # Slug the Tag URL. Easier for users to type, special characters are
 # often removed or replaced as well.
