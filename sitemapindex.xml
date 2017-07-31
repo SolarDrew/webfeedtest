@@ -7,18 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://solardrew.github.io/webfeedtest/galleries/rss.xml</loc>
-  <lastmod>2017-07-31T11:39:00Z</lastmod>
+  <lastmod>2017-07-31T12:02:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://solardrew.github.io/webfeedtest/rss.xml/rss_ogg.xml</loc>
-  <lastmod>2017-07-31T11:24:00Z</lastmod>
+  <loc>https://solardrew.github.io/webfeedtest/rss.xml</loc>
+  <lastmod>2017-07-31T12:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://solardrew.github.io/webfeedtest/rss_ogg.xml</loc>
-  <lastmod>2017-07-31T11:39:00Z</lastmod>
+  <lastmod>2017-07-31T12:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://solardrew.github.io/webfeedtest/sitemap.xml</loc>
-  <lastmod>2017-07-31T11:39:00Z</lastmod>
+  <lastmod>2017-07-31T12:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
