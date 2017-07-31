@@ -7,8 +7,8 @@
 .. link: 
 .. description: 
 .. type: text
-.. ogg_enclosure: ../../Bugle4037.mp3
-.. ogg_enclosure_length: 43226624
+.. mp3_enclosure: ../../Bugle4037.mp3
+.. mp3_enclosure_length: 43226624
 -->
 
 Here is another amazing episode!

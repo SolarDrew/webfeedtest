@@ -134,6 +134,7 @@ NAVIGATION_LINKS = {
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
         ("/rss_ogg.xml", "RSS OGG feed"),
+        ("/rss_mp3.xml", "RSS MP3 feed"),
     ),
 }
 
