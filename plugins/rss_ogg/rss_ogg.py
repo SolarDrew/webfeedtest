@@ -48,7 +48,7 @@ class GenerateRSS(Task):
         """Add an enclosure to RSS."""
         enclosure = post.meta('ogg_enclosure', lang)
         if enclosure:
-            enclosure = urljoin(self.site.config['BASE_URL'], enclosure)
+            #enclosure = urljoin(self.site.config['BASE_URL'], enclosure)
             try:
                 length = int(post.meta('ogg_enclosure_length', lang) or 0)
             except KeyError:
