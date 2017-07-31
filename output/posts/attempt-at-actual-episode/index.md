@@ -17,6 +17,6 @@ Except it's actually not anything that I've made at all, it's an episode of the 
   Your browser does not support the audio element.
 </audio>
 
-<a href="../../../Bugle4037.mp3">Download episode</a>
+<a href="../../Bugle4037.mp3">Download episode</a>
 
 Listen and rejoice!
